@@ -7,8 +7,8 @@ Here are the instructions for running my project code.
 4) Place your input file(s) in the same directory as the .java files
 
 5)
-To compile the HillClimber code enter the command "javac Genetic.java"
+To compile the code enter the command "javac Genetic.java"
 
 6) 
-To run the hillCLimber enter the command "java Genetic filename"
+To run the algorithm enter the command "java Genetic filename"
 With filename being the name of the input data file
